@@ -1,4 +1,4 @@
 # IrisPHPMlTutorial
-`composer require php-ai/php-ml`
+`composer install`
 
 PHPであやめの分類をするあれ
